@@ -1,0 +1,33 @@
+Please provide a README for this tests
+
+Test # 1
+
+   testPostCreation function can create post , and then count the post and print out the new postCount to make sure it post succeed .
+
+Test # 2
+
+ fix the getPostCount function, if there is no post, it return 0.
+
+Test # 3
+
+   create a method call “deletePostById” in the Postdashboard class. In the test case, create 3 post, the used above method to delete it one by one.
+
+
+Test # 4
+
+ the “deleteAllPosts()” method create in postdashboard class, after create 5 post, then call method to delete all posts.
+
+
+
+Test # 5 
+
+  testQuickEdit() complete the 
+   ● Create a post   ● Edit its title   ● Delete the post
+
+Test # 6 
+
+There are two classes to complete the test. 
+a- MediaDashboardAddNew  
+b- MeidaDashboardLibrary
+in the tests case, 
+there is a for loop to create 3 photos from  MediaDashboardAddNew , and then instantiate MediaDashboardLibrary and call deletphoto method.

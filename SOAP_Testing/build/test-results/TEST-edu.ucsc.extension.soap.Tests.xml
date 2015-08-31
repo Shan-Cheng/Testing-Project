@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.ucsc.extension.soap.Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-08-13T01:19:30" hostname="Hsuans-MacBook-Air.local" time="0.898">
+  <properties/>
+  <testcase name="testWebService" classname="edu.ucsc.extension.soap.Tests" time="0.898"/>
+  <system-out><![CDATA[212
+]]></system-out>
+  <system-err><![CDATA[Aug 12, 2015 6:19:30 PM org.apache.axis.utils.JavaUtils isAttachmentSupported
+WARNING: Unable to find required classes (javax.activation.DataHandler and javax.mail.internet.MimeMultipart). Attachment support is disabled.
+]]></system-err>
+</testsuite>

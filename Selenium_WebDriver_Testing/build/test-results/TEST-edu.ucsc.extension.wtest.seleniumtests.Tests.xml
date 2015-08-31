@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.ucsc.extension.wtest.seleniumtests.Tests" tests="5" skipped="4" failures="0" errors="0" timestamp="2015-08-03T18:30:14" hostname="Hsuans-MacBook-Air.local" time="97.592">
+  <properties/>
+  <testcase name="testPostCreation" classname="edu.ucsc.extension.wtest.seleniumtests.Tests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDeletAllPost" classname="edu.ucsc.extension.wtest.seleniumtests.Tests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testUploadAndDeletePhoto" classname="edu.ucsc.extension.wtest.seleniumtests.Tests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDeleteById" classname="edu.ucsc.extension.wtest.seleniumtests.Tests" time="97.585"/>
+  <testcase name="testQuickEdit" classname="edu.ucsc.extension.wtest.seleniumtests.Tests" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
